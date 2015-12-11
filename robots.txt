@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://doungdara.github.io/sitemap.xml 
+Sitemap: https://github.com/doungdara/sitemap.xml 

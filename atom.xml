@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Doungdara Keut]]></title>
-  <link href="http://doungdara.github.io/atom.xml" rel="self"/>
-  <link href="http://doungdara.github.io/"/>
-  <updated>2015-12-11T19:29:05+07:00</updated>
-  <id>http://doungdara.github.io/</id>
+  <link href="https://github.com/doungdara/atom.xml" rel="self"/>
+  <link href="https://github.com/doungdara/"/>
+  <updated>2015-12-11T21:01:42+07:00</updated>
+  <id>https://github.com/doungdara/</id>
   <author>
     <name><![CDATA[Doungdara Keut]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Active Record Basic]]></title>
-    <link href="http://doungdara.github.io/blog/2015/12/11/active-record-basic/"/>
+    <link href="https://github.com/doungdara/blog/2015/12/11/active-record-basic/"/>
     <updated>2015-12-11T17:23:33+07:00</updated>
-    <id>http://doungdara.github.io/blog/2015/12/11/active-record-basic</id>
+    <id>https://github.com/doungdara/blog/2015/12/11/active-record-basic</id>
     <content type="html"><![CDATA[<div id="container">
     <div class="wrapper">
       <div id="mainCol">
@@ -249,9 +249,9 @@ PostgreSQL, Oracle and others. You can learn more about migrations in the
   
   <entry>
     <title type="html"><![CDATA[How To Deploy a Rails App with Passenger and Nginx on Ubuntu 14.04]]></title>
-    <link href="http://doungdara.github.io/blog/2015/12/11/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-dot-04/"/>
+    <link href="https://github.com/doungdara/blog/2015/12/11/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-dot-04/"/>
     <updated>2015-12-11T15:05:29+07:00</updated>
-    <id>http://doungdara.github.io/blog/2015/12/11/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-dot-04</id>
+    <id>https://github.com/doungdara/blog/2015/12/11/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-dot-04</id>
     <content type="html"><![CDATA[<div class="content-body tutorial-content" data-growable-markdown="">
       <div name="introduction" data-unique="introduction"></div><h2 id="introduction">Introduction</h2>
 

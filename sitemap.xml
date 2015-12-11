@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://doungdara.github.io/blog/2015/12/11/active-record-basic/</loc>
+    <loc>https://github.com/doungdara/blog/2015/12/11/active-record-basic/</loc>
     <lastmod>2015-12-11T17:23:33+07:00</lastmod>
   </url>
   <url>
-    <loc>http://doungdara.github.io/blog/2015/12/11/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-dot-04/</loc>
+    <loc>https://github.com/doungdara/blog/2015/12/11/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-dot-04/</loc>
     <lastmod>2015-12-11T15:05:29+07:00</lastmod>
   </url>
   <url>
-    <loc>http://doungdara.github.io/</loc>
+    <loc>https://github.com/doungdara/</loc>
   </url>
   <url>
-    <loc>http://doungdara.github.io/about/</loc>
+    <loc>https://github.com/doungdara/about/</loc>
   </url>
   <url>
-    <loc>http://doungdara.github.io/blog/archives/</loc>
+    <loc>https://github.com/doungdara/blog/archives/</loc>
   </url>
 </urlset>
